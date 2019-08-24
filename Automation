@@ -1,0 +1,20 @@
+08/24/2019 05:09:18 PM - SeleniumDriver - INFO: Element found with locator: companyName and  locatorType: id
+08/24/2019 05:09:18 PM - SeleniumDriver - INFO: Sent data on element with locator: companyName locatorType: id
+08/24/2019 05:09:20 PM - SeleniumDriver - INFO: Element found with locator: //*[contains(text(),'Unternehmen suchen')] and  locatorType: xpath
+08/24/2019 05:09:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(text(),'Unternehmen suchen')] locatorType: xpath
+08/24/2019 05:09:22 PM - SeleniumDriver - INFO: Element found with locator: //h3[contains(text(),'FinCompare GmbH')] and  locatorType: xpath
+08/24/2019 05:09:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //h3[contains(text(),'FinCompare GmbH')] locatorType: xpath
+08/24/2019 05:09:25 PM - SeleniumDriver - INFO: Element found with locator: firstName and  locatorType: id
+08/24/2019 05:09:25 PM - SeleniumDriver - INFO: Sent data on element with locator: firstName locatorType: id
+08/24/2019 05:09:27 PM - SeleniumDriver - INFO: Element found with locator: lastName and  locatorType: id
+08/24/2019 05:09:27 PM - SeleniumDriver - INFO: Sent data on element with locator: lastName locatorType: id
+08/24/2019 05:09:30 PM - SeleniumDriver - INFO: Element found with locator: //div[@id='select-businessRelation'] and  locatorType: xpath
+08/24/2019 05:09:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@id='select-businessRelation'] locatorType: xpath
+08/24/2019 05:09:33 PM - SeleniumDriver - INFO: Element found with locator: //*[contains(text(),'Ihren Kunden')] and  locatorType: xpath
+08/24/2019 05:09:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(text(),'Ihren Kunden')] locatorType: xpath
+08/24/2019 05:09:36 PM - SeleniumDriver - INFO: Element found with locator: phone and  locatorType: id
+08/24/2019 05:09:36 PM - SeleniumDriver - INFO: Sent data on element with locator: phone locatorType: id
+08/24/2019 05:09:39 PM - SeleniumDriver - INFO: Element found with locator: //*[contains(text(),'Kostenlos registrieren')] and  locatorType: xpath
+08/24/2019 05:09:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[contains(text(),'Kostenlos registrieren')] locatorType: xpath
+08/24/2019 05:09:44 PM - SeleniumDriver - INFO: Element found with locator: //p[@id='name-error-text'] and  locatorType: xpath
+08/24/2019 05:09:44 PM - SeleniumDriver - INFO: Element present with locator: //p[@id='name-error-text'] locatorType: xpath
